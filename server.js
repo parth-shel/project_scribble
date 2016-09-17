@@ -1,3 +1,8 @@
+var express = require('express')
+, stylus = require('stylus')
+, nib = require('nib')
+//, sio = require('..//..//lib//socket.io'); //Original
+, sio = require('socket.io');                //Updated
 var app = require('express')();
 var http = require('http').Server(app);
 var io = require('socket.io')(http);
