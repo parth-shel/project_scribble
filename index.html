@@ -17,14 +17,14 @@
          touch-action: none;
       }
    </style>
-   <script src="babylon.2.4.js"></script>
-   <script src="hand.js"></script>
-   <script src="cannon.js"></script> <!-- optional physics engine -->
+   <script src="http://cdn.babylonjs.com/2-4/babylon.js"></script>
+   <script src="https://cdn.socket.io/socket.io-1.4.5.js"></script>
 </head>
 <body>
    <canvas id="renderCanvas"></canvas>
    <script type="text/javascript">
-      // Get the canvas element from our HTML below
+	  
+	  // Get the canvas element from our HTML below
       var canvas = document.querySelector("#renderCanvas");
       // Load the BABYLON 3D engine
       var engine = new BABYLON.Engine(canvas, true);
@@ -32,6 +32,8 @@
       // Here begins a function that we will 'call' just after it's built
 	  var player;
 	  
+	  //network stuff
+	  var socket = io();
       var createScene = function () {
          // Now create a basic Babylon Scene object
          var scene = new BABYLON.Scene(engine);
@@ -69,6 +71,7 @@
       window.addEventListener("resize", function () {
          engine.resize();
       });
+	  
    </script>
 </body>
 </html>
