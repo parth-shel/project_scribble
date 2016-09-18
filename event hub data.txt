@@ -7,3 +7,7 @@ key1 - 05pHN0SGIPmt0xrqzEYzQQMMyow4Go6rMPv8laBZOMVJ5jBqYx4FyRnlW9bvGUlaMpT01JI+Z
 key2 - ntJUubYUUZjdDkxOurKncikWiF3PjEsq2Bm1ERrsZ+peiwkT0/D4CyYOvzF8m4uNlIkhZxf9AUmBY7lZGjsLMw==
 
 https://projectscribble.blob.core.windows.net/scribblecontainer?sv=2015-04-05&sr=c&sig=%2BxEdxnuOskXgzpvaHvPHRGh%2BzqMInJbGmqr9VOPuWJ0%3D&se=2016-12-27T03%3A07%3A09Z&sp=rwdl
+
+ntvKF2Mtr2jWkIeWcxxpmR0kmzdVYBV0STcJVMnprmw=
+
+Endpoint=sb://project-scribble.servicebus.windows.net/;SharedAccessKeyName=project-scribble;SharedAccessKey=ntvKF2Mtr2jWkIeWcxxpmR0kmzdVYBV0STcJVMnprmw=;EntityPath=project-scribble
