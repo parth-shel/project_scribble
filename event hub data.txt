@@ -11,3 +11,5 @@ https://projectscribble.blob.core.windows.net/scribblecontainer?sv=2015-04-05&sr
 ntvKF2Mtr2jWkIeWcxxpmR0kmzdVYBV0STcJVMnprmw=
 
 Endpoint=sb://project-scribble.servicebus.windows.net/;SharedAccessKeyName=project-scribble;SharedAccessKey=ntvKF2Mtr2jWkIeWcxxpmR0kmzdVYBV0STcJVMnprmw=;EntityPath=project-scribble
+
+Endpoint=sb://project-scribble.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=lIAmJ1tHxmfW6vTuBeDJhJ4qs4jYVmov51grGJkmfoM=
