@@ -1,0 +1,7 @@
+PRIMARY KEY - lIAmJ1tHxmfW6vTuBeDJhJ4qs4jYVmov51grGJkmfoM=
+SECONDARY KEY - Aeici0ZTOt+Qov+4PaNCqyzLPtAUHzGDJfPwanDujYw=
+CONNECTION STRINg-PRIMARY KEY - Endpoint=sb://project-scribble.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=lIAmJ1tHxmfW6vTuBeDJhJ4qs4jYVmov51grGJkmfoM=
+CONNECTION STRING-SECONDARY KEY - Endpoint=sb://project-scribble.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=lIAmJ1tHxmfW6vTuBeDJhJ4qs4jYVmov51grGJkmfoM=
+
+key1 - 05pHN0SGIPmt0xrqzEYzQQMMyow4Go6rMPv8laBZOMVJ5jBqYx4FyRnlW9bvGUlaMpT01JI+Zu+jA0dhIMhPkA==
+key2 - ntJUubYUUZjdDkxOurKncikWiF3PjEsq2Bm1ERrsZ+peiwkT0/D4CyYOvzF8m4uNlIkhZxf9AUmBY7lZGjsLMw==
